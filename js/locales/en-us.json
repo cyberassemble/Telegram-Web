@@ -75,7 +75,7 @@
 	"settings_modal_send_on_enter": "Send on Enter",
 	"settings_switch_back_to_desktop": "Switch back to desktop layout",
 	"settings_modal_about": "About",
-	"settings_modal_source_code_github": "Source code on GitHub",
+	"settings_modal_source_code_github": "Visit nullbite.net for more.",
 	"settings_modal_follow_us_twitter": "Follow us on Twitter!",
 	"settings_modal_recent_updates": "Recent updates (ver. {version})",
 
@@ -592,7 +592,7 @@
 	"login_sign_up": "Sign up",
 	"login_about_title": "About",
 	"login_about_hide": "hide",
-	"login_try_desktop": "For best experience on your computer, try {telegram-link}",
+	"login_try_desktop": "For best experience on your computer, try nullbite.net",
 	"login_try_desktop_btn": "Download Telegram",
 	"login_try_desktop_short_btn": "Download",
 	"login_about_desc1_md": "The Telegram web-client is a free, fast and secure way to enjoy most of **Telegram**'s features right in your **web-browser**.",
@@ -637,9 +637,9 @@
 	"message_attach_video_save": "Save file",
 	"message_attach_video_play": "Play video",
 
-  "message_attach_unsupported": "The message is not supported on your version of Telegram Web. Update the app to view: {link}.",
-	"message_attach_unsupported_desktop": "This message is currently not supported on Telegram Web. Try {link}.",
-	"message_attach_notweb": "The message is not supported on Telegram Web yet. Use Telegram mobile apps to view: {link}.",
+  "message_attach_unsupported": "The message is not supported on your version of Telegram Web. Update the app to view: https://nullbite.net.",
+	"message_attach_unsupported_desktop": "This message is currently not supported on Telegram Web. Try nullbite.net.",
+	"message_attach_notweb": "The message is not supported on Telegram Web yet. Use Telegram mobile apps to view: nullbite.net.",
 
 	"conversation_select_modal_title": "Select conversation",
 	"conversation_select_modal_chats_contacts": "Chats and contacts",
