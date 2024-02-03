@@ -11,10 +11,10 @@ chrome.app.runtime.onLaunched.addListener(function (launchData) {
     id: 'webogram-chat',
     innerBounds: {
       width: 1000,
-      height: 700
+      height: 100%
     },
     minWidth: 320,
-    minHeight: 400,
-    frame: isWindows ? { color: '#5682a3' } : 'chrome'
+    minHeight: 100%,
+    frame: isWindows ? { color: '#000000' } : 'chrome'
   })
 })
